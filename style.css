@@ -2,7 +2,7 @@ body {
     background-color: rgb(196, 231, 224);
 }
 
-.pomodoro-container {
+.container {
     margin: 0 auto;
     max-width: 400px;
     min-width: fit-content;
